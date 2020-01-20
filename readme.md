@@ -1,13 +1,27 @@
 # opendir
 
 Search Open Dirs: https://open-directories.reecemercer.dev/     
+
+
+
 Movies: http://130.185.144.102/      
+
+
+
 The Mandalorian: http://185.105.101.95/S/The.Mandalorian/S01/      
+
+
+
 Movies and TV:      
+http://130.185.144.63/Latest%20Releases/
 http://163-172-10-220.rev.poneytelecom.eu/      
 http://dl3.tvto.ga/Series/       
 http://dl.tvto.ga/Series/        
 http://dl2.tvto.ga/Series/       
+
+
+
+
 
 archive of websites:       
 https://web.archive.org/        
